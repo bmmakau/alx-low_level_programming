@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * betty style doc for function main goes there
- * main - the main fn checks
+ * main - this is the entry point
+ * Description: It checks if it is less, greater or equal to zero
  * Return: 0
  */
 int main(void)
