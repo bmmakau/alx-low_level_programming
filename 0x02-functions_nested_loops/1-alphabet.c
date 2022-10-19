@@ -10,20 +10,10 @@ void print_alphabet(void)
 	char c;
 
 	c = 'a';
-	while (c < 'z')
+	while (c <= 'z')
 	{
 		_putchar(c);
 		c++;
 	}
 	_putchar('\n');
-}
-/**
- * main - Entry point
- * Description: print a - z
- * Return: Always 0
- */
-int main(void)
-{
-	print_alphabet();
-	return (0);
 }
