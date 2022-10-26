@@ -5,7 +5,6 @@
   *
   * @a: first integer
   * @b: second integer
-  * @temp: temporary variable
   *
   * Return: void
   */
